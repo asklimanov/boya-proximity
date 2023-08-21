@@ -4,7 +4,9 @@
 
 Данный микрофон используется со звуковой картой Sound Blaster SB1140, но также подойдет любая недорогая USB карта с микрофонным входом Jack 3.5, например, Sound Blaster PLAY! 3.
 
-ТЕСТ: 
+ТЕСТ:
+
+https://github.com/asklimanov/boya-proximity/assets/126677106/8e2c830f-d5d9-46a8-afcc-5208298fbe13
 
 НАСТРОЙКА:
 
