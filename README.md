@@ -4,6 +4,8 @@
 
 Данный микрофон используется со звуковой картой Sound Blaster SB1140, но также подойдет любая недорогая USB карта с микрофонным входом Jack 3.5, например, Sound Blaster PLAY! 3.
 
+ТЕСТ: 
+
 НАСТРОЙКА:
 
 Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a> и выбрать микрофон на вкладке Capture devices в Configurator. Компьютер перезагрузится.
