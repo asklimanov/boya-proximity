@@ -12,7 +12,7 @@ https://github.com/asklimanov/boya-proximity/assets/126677106/8e2c830f-d5d9-46a8
 
 Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a> и выбрать микрофон на вкладке Capture devices в Configurator. Компьютер перезагрузится.
 
-* Уровень громкости звуковой карты в системе: 90<br>
+* Уровень громкости звуковой карты в системе: 50%<br>
 
 Порядок настройки:
 
